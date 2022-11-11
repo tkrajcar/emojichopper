@@ -10,4 +10,4 @@ DEPENDENCIES
   mini_magick (~> 4.9.5)
 
 BUNDLED WITH
-   1.17.3
+   2.1.4
